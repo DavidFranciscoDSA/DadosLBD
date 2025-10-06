@@ -1,61 +1,61 @@
-﻿"Tabela 1613 - Área destinada à colheita, área colhida, quantidade produzida, rendimento médio e valor da produção das lavouras permanentes"
-"Variável - Área colhida (Hectares)"
-"";"Ano x Produto das lavouras permanentes"
-"";"1994";;"1995";;"1996";;"1997";;"1998";;"1999";;"2000";;"2001";;"2002";;"2003";;"2004";;"2005";;"2006";;"2007";;"2008";;"2009";;"2010";;"2011";;"2012";;"2013";;"2014";;"2015";;"2016";;"2017";;"2018";;"2019";;"2020";;"2021";;"2022";;"2023";;"2024"
-"";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica"
-"Brasil";"5951638";"...";"5708548";"...";"5543016";"...";"5803341";"...";"5988516";"...";"6159444";"...";"6175170";"...";"6182346";"...";"6164730";"...";"6279032";"...";"6295583";"...";"6252270";"...";"6342186";"...";"6322727";"...";"6339340";"...";"6161372";"...";"6218204";"...";"6304477";"...";"6107896";"1615017";"5898108";"1620931";"5727127";"1546090";"5845102";"1528564";"5832166";"1567075";"5284657";"1398501";"5288220";"1469292";"5282676";"1437366";"5405637";"1508829";"5362089";"1444762";"5447006";"1470919";"5556974";"1514233";"5682477";"1544157"
-"Fonte: IBGE - Produção Agrícola Municipal"
-
-"Tabela 1613 - Área destinada à colheita, área colhida, quantidade produzida, rendimento médio e valor da produção das lavouras permanentes"
-"Variável - Quantidade produzida (Toneladas)"
-"";"Ano x Produto das lavouras permanentes"
-"";"1994";;"1995";;"1996";;"1997";;"1998";;"1999";;"2000";;"2001";;"2002";;"2003";;"2004";;"2005";;"2006";;"2007";;"2008";;"2009";;"2010";;"2011";;"2012";;"2013";;"2014";;"2015";;"2016";;"2017";;"2018";;"2019";;"2020";;"2021";;"2022";;"2023";;"2024"
-"";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica"
-"Brasil";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"2278738";"..";"2320343";"..";"2012172";"..";"1995799";"..";"2547174";"..";"2041307";"..";"2661940";"..";"2095731";"..";"2835162";"..";"1979430";"..";"2071598";"..";"2364611";"..";"2393732"
-"Fonte: IBGE - Produção Agrícola Municipal"
-
-"Tabela 1613 - Área destinada à colheita, área colhida, quantidade produzida, rendimento médio e valor da produção das lavouras permanentes"
-"Variável - Rendimento médio da produção (Quilogramas por Hectare)"
-"";"Ano x Produto das lavouras permanentes"
-"";"1994";;"1995";;"1996";;"1997";;"1998";;"1999";;"2000";;"2001";;"2002";;"2003";;"2004";;"2005";;"2006";;"2007";;"2008";;"2009";;"2010";;"2011";;"2012";;"2013";;"2014";;"2015";;"2016";;"2017";;"2018";;"2019";;"2020";;"2021";;"2022";;"2023";;"2024"
-"";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica"
-"Brasil";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"...";"..";"1411";"..";"1431";"..";"1301";"..";"1306";"..";"1625";"..";"1460";"..";"1812";"..";"1458";"..";"1879";"..";"1370";"..";"1408";"..";"1562";"..";"1550"
-"Fonte: IBGE - Produção Agrícola Municipal"
-
-"Tabela 1613 - Área destinada à colheita, área colhida, quantidade produzida, rendimento médio e valor da produção das lavouras permanentes"
-"Variável - Valor da produção (Mil Reais)"
-"";"Ano x Produto das lavouras permanentes"
-"";"1994";;"1995";;"1996";;"1997";;"1998";;"1999";;"2000";;"2001";;"2002";;"2003";;"2004";;"2005";;"2006";;"2007";;"2008";;"2009";;"2010";;"2011";;"2012";;"2013";;"2014";;"2015";;"2016";;"2017";;"2018";;"2019";;"2020";;"2021";;"2022";;"2023";;"2024"
-"";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica";"Total";"Café (em grão) Arábica"
-"Brasil";"8390398";"...";"7380555";"...";"7209724";"...";"8312456";"...";"9803672";"...";"10691905";"...";"10581677";"...";"11895641";"...";"16376647";"...";"17271099";"...";"21243083";"...";"20386942";"...";"26031355";"...";"24932604";"...";"28241269";"...";"26706031";"...";"32799673";"...";"39474490";"...";"38198272";"13810664";"36385862";"10377009";"42396990";"12725990";"48217722";"12931400";"57978830";"18548855";"56249875";"14542231";"60501129";"18076423";"58753601";"13559227";"75199911";"22582460";"91524898";"26836549";"117009581";"39276510";"124050412";"33124350";"178159271";"50996033"
-"Fonte: IBGE - Produção Agrícola Municipal"
-
-"Notas"
-"1 - Os municípios sem informação para pelo menos um produto da lavoura permanente não aparecem nas listas."
-"2 - A partir do ano de 2001 as quantidades produzidas dos produtos abacate, banana, caqui, figo, goiaba, laranja, limão, maçã, mamão, manga, maracujá, marmelo, pera, pêssego e tangerina passam a ser expressas em toneladas. Nos anos anteriores eram expressas em mil frutos, com exceção da banana, que era expressa em mil cachos. O rendimento médio passa a ser expresso em Kg/ha. Nos anos anteriores era expresso em frutos/ha, com exceção da banana, que era expressa em cachos/ha."
-"3 - Veja em o documento AlteracoesUnidadesMedidaFrutas.pdf com as alterações de unidades de medida das frutíferas ocorridas em 2001 e a tabela de conversão fruto x quilograma."
-"4 - Até 2001, café (em coco), a partir de 2002, café (beneficiado ou em grão)."
-"5 - A quantidade produzida de coco-da-baía é expressa em mil frutos e o rendimento médio em frutos/ha."
-"6 - Valores para a categoria Total indisponíveis para a variável Quantidade produzida e Rendimento médio, pois as unidades de medida diferem para determinados produtos."
-"7 - Subentende a possibilidade de cultivos sucessivos ou simultâneos (simples, associados e/ou intercalados) no mesmo ano e no mesmo local, podendo, por isto, a área informada da cultura exceder a área geográfica do município."
-"8 - A diferença entre a área destinada à colheita e a área colhida na lavoura permanente é considerada como área perdida."
-"9 - A variável Área destinada à colheita só passou a ser informada a partir de 1988."
-"10 - Valor da produção: Variável derivada calculada pela média ponderada das informações de quantidade e preço médio corrente pago ao produtor, de acordo com os períodos de colheita e comercialização de cada produto. As despesas de frete, taxas e impostos não são incluídas no preço."
-"11 - Os dados do último ano divulgado são RESULTADOS PRELIMINARES e podem sofrer alterações até a próxima divulgação."
-""
-"Legenda"
-"Símbolo";"Significado"
-"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
-Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
-"0";"Zero resultante de um cálculo ou arredondamento.
+﻿Tabela 1613 - Área destinada à colheita, área colhida, quantidade produzida, rendimento médio e valor da produção das lavouras permanentes;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Variável - Área colhida (Hectares);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Ano x Produto das lavouras permanentes;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;1994;;1995;;1996;;1997;;1998;;1999;;2000;;2001;;2002;;2003;;2004;;2005;;2006;;2007;;2008;;2009;;2010;;2011;;2012;;2013;;2014;;2015;;2016;;2017;;2018;;2019;;2020;;2021;;2022;;2023;;2024;
+;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica
+Brasil;5951638;...;5708548;...;5543016;...;5803341;...;5988516;...;6159444;...;6175170;...;6182346;...;6164730;...;6279032;...;6295583;...;6252270;...;6342186;...;6322727;...;6339340;...;6161372;...;6218204;...;6304477;...;6107896;1615017;5898108;1620931;5727127;1546090;5845102;1528564;5832166;1567075;5284657;1398501;5288220;1469292;5282676;1437366;5405637;1508829;5362089;1444762;5447006;1470919;5556974;1514233;5682477;1544157
+Fonte: IBGE - Produção Agrícola Municipal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Tabela 1613 - Área destinada à colheita, área colhida, quantidade produzida, rendimento médio e valor da produção das lavouras permanentes;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Variável - Quantidade produzida (Toneladas);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Ano x Produto das lavouras permanentes;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;1994;;1995;;1996;;1997;;1998;;1999;;2000;;2001;;2002;;2003;;2004;;2005;;2006;;2007;;2008;;2009;;2010;;2011;;2012;;2013;;2014;;2015;;2016;;2017;;2018;;2019;;2020;;2021;;2022;;2023;;2024;
+;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica
+Brasil;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;2278738;..;2320343;..;2012172;..;1995799;..;2547174;..;2041307;..;2661940;..;2095731;..;2835162;..;1979430;..;2071598;..;2364611;..;2393732
+Fonte: IBGE - Produção Agrícola Municipal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Tabela 1613 - Área destinada à colheita, área colhida, quantidade produzida, rendimento médio e valor da produção das lavouras permanentes;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Variável - Rendimento médio da produção (Quilogramas por Hectare);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Ano x Produto das lavouras permanentes;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;1994;;1995;;1996;;1997;;1998;;1999;;2000;;2001;;2002;;2003;;2004;;2005;;2006;;2007;;2008;;2009;;2010;;2011;;2012;;2013;;2014;;2015;;2016;;2017;;2018;;2019;;2020;;2021;;2022;;2023;;2024;
+;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica
+Brasil;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;...;..;1411;..;1431;..;1301;..;1306;..;1625;..;1460;..;1812;..;1458;..;1879;..;1370;..;1408;..;1562;..;1550
+Fonte: IBGE - Produção Agrícola Municipal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Tabela 1613 - Área destinada à colheita, área colhida, quantidade produzida, rendimento médio e valor da produção das lavouras permanentes;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Variável - Valor da produção (Mil Reais);;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Ano x Produto das lavouras permanentes;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;1994;;1995;;1996;;1997;;1998;;1999;;2000;;2001;;2002;;2003;;2004;;2005;;2006;;2007;;2008;;2009;;2010;;2011;;2012;;2013;;2014;;2015;;2016;;2017;;2018;;2019;;2020;;2021;;2022;;2023;;2024;
+;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica;Total;Café (em grão) Arábica
+Brasil;8390398;...;7380555;...;7209724;...;8312456;...;9803672;...;10691905;...;10581677;...;11895641;...;16376647;...;17271099;...;21243083;...;20386942;...;26031355;...;24932604;...;28241269;...;26706031;...;32799673;...;39474490;...;38198272;13810664;36385862;10377009;42396990;12725990;48217722;12931400;57978830;18548855;56249875;14542231;60501129;18076423;58753601;13559227;75199911;22582460;91524898;26836549;117009581;39276510;124050412;33124350;178159271;50996033
+Fonte: IBGE - Produção Agrícola Municipal;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Notas;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+1 - Os municípios sem informação para pelo menos um produto da lavoura permanente não aparecem nas listas.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2 - A partir do ano de 2001 as quantidades produzidas dos produtos abacate, banana, caqui, figo, goiaba, laranja, limão, maçã, mamão, manga, maracujá, marmelo, pera, pêssego e tangerina passam a ser expressas em toneladas. Nos anos anteriores eram expressas em mil frutos, com exceção da banana, que era expressa em mil cachos. O rendimento médio passa a ser expresso em Kg/ha. Nos anos anteriores era expresso em frutos/ha, com exceção da banana, que era expressa em cachos/ha.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+3 - Veja em o documento AlteracoesUnidadesMedidaFrutas.pdf com as alterações de unidades de medida das frutíferas ocorridas em 2001 e a tabela de conversão fruto x quilograma.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+4 - Até 2001, café (em coco), a partir de 2002, café (beneficiado ou em grão).;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+5 - A quantidade produzida de coco-da-baía é expressa em mil frutos e o rendimento médio em frutos/ha.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+6 - Valores para a categoria Total indisponíveis para a variável Quantidade produzida e Rendimento médio, pois as unidades de medida diferem para determinados produtos.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+7 - Subentende a possibilidade de cultivos sucessivos ou simultâneos (simples, associados e/ou intercalados) no mesmo ano e no mesmo local, podendo, por isto, a área informada da cultura exceder a área geográfica do município.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+8 - A diferença entre a área destinada à colheita e a área colhida na lavoura permanente é considerada como área perdida.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+9 - A variável Área destinada à colheita só passou a ser informada a partir de 1988.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+10 - Valor da produção: Variável derivada calculada pela média ponderada das informações de quantidade e preço médio corrente pago ao produtor, de acordo com os períodos de colheita e comercialização de cada produto. As despesas de frete, taxas e impostos não são incluídas no preço.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+11 - Os dados do último ano divulgado são RESULTADOS PRELIMINARES e podem sofrer alterações até a próxima divulgação.;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Legenda;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Símbolo;Significado;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+-;"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução.";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+0;"Zero resultante de um cálculo ou arredondamento.
 Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
-Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
-"X";"Valor inibido para não identificar o informante.
-Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
-"..";"Valor não se aplica.
-Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
-"...";"Valor não disponível.
-Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas.";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+X;"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido.";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+..;"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas.";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+...;"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa.";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 "A a Z
 (exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
-Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
